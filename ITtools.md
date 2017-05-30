@@ -26,6 +26,8 @@
 - Email或帳號：https://haveibeenpwned.com/
 
 #### VPN
+- Getlantern: https://getlantern.org/
+- riseup: https://riseup.net/en/vpn
 
 
 ## Social Network
