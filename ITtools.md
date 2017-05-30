@@ -20,7 +20,9 @@
 - AbuseIPdb: https://www.abuseipdb.com/
   
 #### NGO資安教學
+- EFF: ssd.eff.org/en
 - TWNGO：https://twngo.xyz/
+- Tactical Tech's Me and My Shadow: https://myshadow.org/
 
 #### 帳戶安全
 - Email或帳號：https://haveibeenpwned.com/
