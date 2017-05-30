@@ -15,7 +15,10 @@
 
 ### 網站加密
 - SSL檢測工具：https://www.ssllabs.com/ssltest/
-  
+
+### 檢測IP來源＆是否濫用
+- AbuseIPdb: https://www.abuseipdb.com/
+  
 ### NGO資安教學
 - TWNGO：https://twngo.xyz/
 
