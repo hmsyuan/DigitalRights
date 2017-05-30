@@ -1,3 +1,7 @@
+## Coding & Sharing
+### Git tool
+- Github: https://github.com/
+
 ## 線上共筆
 ### 支援markdown
 - Hackmd：https://hackmd.io/
@@ -5,12 +9,23 @@
   
 ### 文字／視覺編輯
 - Quip：https://quip.com/
+- Google doc/spreadsheet
 
 ## Cybersecurity
 
 ### 網站加密
 - SSL檢測工具：https://www.ssllabs.com/ssltest/
   
-### 台灣NGO資安教學
+### NGO資安教學
 - TWNGO：https://twngo.xyz/
 
+### 帳戶安全
+- Email或帳號：https://haveibeenpwned.com/
+
+## Social Network
+### Facebook
+- FB debug: https://developers.facebook.com/tools/debug/
+
+## 文字紀錄
+### 逐字稿
+- SayIt: http://sayit.mysociety.org/
