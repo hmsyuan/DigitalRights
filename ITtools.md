@@ -18,6 +18,7 @@
 - PrivacyTools: https://privacytools.twngo.xyz/
 
 #### 網站加密
+- 免費SSL加密Let's Encrypt: https://letsencrypt.org/
 - SSL檢測工具：https://www.ssllabs.com/ssltest/
 
 #### 檢測IP來源＆是否濫用
