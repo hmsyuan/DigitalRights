@@ -16,7 +16,7 @@
 #### 反監控工具箱
 - PRISM-Break: https://prism-break.org/en/
 - FrontLine Defender: https://securityinabox.org/en/
-- Privacy Tool: https://privacytools.twngo.xyz/
+- PrivacyTools: https://privacytools.twngo.xyz/
 
 #### 網站加密
 - SSL檢測工具：https://www.ssllabs.com/ssltest/
@@ -40,10 +40,20 @@
 #### Browser
 - Tor: https://www.torproject.org/
 
+#### Password Management
+- 1password: https://1password.com/
+
 ## Social Network
 #### Facebook
 - FB debug: https://developers.facebook.com/tools/debug/
 
+#### Instant Message
+- Signal: https://signal.org/
+
 ## 文字紀錄
 #### 逐字稿
 - SayIt: http://sayit.mysociety.org/
+
+
+
+
