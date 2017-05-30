@@ -2,10 +2,10 @@
 #### Git tool
 - Github: https://github.com/
 
-## 線上共筆
+## 線上共筆、簡報
 #### 支援markdown
 - Hackmd：https://hackmd.io/
-    * 全語法撰寫，可支援圖表（流程圖、示意圖、函數）等。
+    * 全語法撰寫，可支援圖表（流程圖、示意圖、函數）等，也有簡報模式。
   
 #### 文字／視覺編輯
 - Quip：https://quip.com/
@@ -57,6 +57,9 @@
 #### 逐字稿
 - SayIt: http://sayit.mysociety.org/
 
+## 演講
+#### QA互動
+- Slido: https://www.sli.do/
 
 
 
