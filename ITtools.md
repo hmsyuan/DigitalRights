@@ -62,6 +62,7 @@
 ## 演講
 #### QA互動
 - Slido: https://www.sli.do/
-
+#### 簡報分享
+- Slideshare: https://www.slideshare.net/
 
 
