@@ -41,7 +41,7 @@
 - Hacking Team Email Archive | 2015: https://transparencytoolkit.org/hacking-team-email-archive/ (揭露Hacking Team的Email)
 
 
-## 反監控
+## 反監控報告
 
 #### By NGO
 - EFF's Who has your back
@@ -61,19 +61,23 @@
 
 #### By Government
 - 請見各國隱私保護委員會
+- US's NSA: https://www.nsa.gov/about/civil-liberties/reports/
 
-# 監控人權文件、討論
+# 反監控人權原則、UN文件、其他討論
 
-## 正式文件
+## 人權原則
 
 ### Released by NGO
 - 國家通訊監控應遵守的國際人權原則（NECESSARY & PROPORTIONATE）：https://necessaryandproportionate.org/
 ### Released by UN
-- 2013, A/HRC/23/40, Frank La Rue, : http://www.ohchr.org/Documents/HRBodies/HRCouncil/RegularSession/Session23/A.HRC.23.40_EN.pdf
+
 ### Released by Countries
 #### 加拿大
-- 工業部 Transaprency Reporting Guidelines: http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf11057.html
+- 工業部透明報告指導原則 (Transaprency Reporting Guidelines): http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf11057.html
 - OPCC (Office of the Privacy Commissioner of Canada) 對各企業透明報告的評比: https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2015/transp_201506/
+
+## UN文件
+- 2013, A/HRC/23/40, Frank La Rue, : http://www.ohchr.org/Documents/HRBodies/HRCouncil/RegularSession/Session23/A.HRC.23.40_EN.pdf
 
 ## 討論
 ### 相關媒體
