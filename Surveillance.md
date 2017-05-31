@@ -8,14 +8,14 @@
 - 2014 無國界記者 Enemies of Internet：http://12mars.rsf.org/2014-en/
 - 2012 無國界記者：Enemies of Internet Special Edition: Surveillance: http://surveillance.rsf.org/en/
 - Privacy International 各國隱私概況：https://www.privacyinternational.org/reports/state-of-privacy
-  ｀｀｀ 阿根廷、巴西、
+    - 阿根廷、巴西、智利、哥倫比亞、埃及、印度、印尼、約旦、肯亞、墨西哥、摩洛哥、巴基斯坦、菲律賓、南非、泰國、突尼西亞、烏干達（後續也可考慮更新台灣）
 
 
 ### 各大洲
 
 ##### 南美洲
 - EFF(host)：https://necessaryandproportionate.org/americas-reports
-
+    - 阿根廷、巴西、智利、哥倫比亞、墨西哥、巴拉圭、秘魯、美國、烏拉圭
 ##### 亞洲
 - Tawian 網路透明報告：http://transparency.tahr.org.tw/TITR_Report_2015.pdf
 - South Korea 網路透明報告：http://transparency.kr/?ckattempt=1
