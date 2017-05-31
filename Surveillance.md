@@ -58,7 +58,8 @@
    - 僅包含Data request部分
 
 #### By Corporation
-- AccessNow's Transparency Reporting Index: https://www.accessnow.org/transparency-reporting-index/ 
+- 各企業transparency report
+    - 彙整：AccessNow's Transparency Reporting Index: https://www.accessnow.org/transparency-reporting-index/ 
 
 #### By Government
 - 請見各國隱私保護委員會
