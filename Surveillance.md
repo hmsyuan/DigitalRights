@@ -43,7 +43,7 @@
 
 ## 反監控
 
-#### By NGO or Academic
+#### By NGO
 - EFF's Who has your back
     - 2016: https://www.eff.org/who-has-your-back-2016  
     - 2015: https://www.eff.org/who-has-your-back-government-data-requests-2015
@@ -51,7 +51,10 @@
 - Tawian 網路透明報告：http://transparency.tahr.org.tw/TITR_Report_2015.pdf
 - South Korea 網路透明報告：http://transparency.kr/?ckattempt=1
 - Hong Kong 網路透明報告：http://transparency.jmsc.hku.hk/
+
+#### By Academic
 - Transparency Reporting Toolkit (by Berkman Klein Center at Harvard University): https://cyber.harvard.edu/publications/2016/transparency_memos
+    - 僅包含Data request部分
 
 #### By Corporation
 - AccessNow's Transparency Reporting Index: https://www.accessnow.org/transparency-reporting-index/ 
