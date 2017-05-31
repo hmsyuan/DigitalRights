@@ -81,7 +81,7 @@
 ## UN文件
 - 2013, A/HRC/23/40, Frank La Rue, : http://www.ohchr.org/Documents/HRBodies/HRCouncil/RegularSession/Session23/A.HRC.23.40_EN.pdf
 
-## 討論
+## 其他討論
 ### 相關媒體
 - The Intercept: https://theintercept.com/ (主要專注英美，由Snoweden leaks的記者Glen Greenwald成立)
 - The Guardian: https://www.theguardian.com/international (衛報)
