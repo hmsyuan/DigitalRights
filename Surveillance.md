@@ -83,6 +83,6 @@
 
 ## 其他討論
 ### 相關媒體
-- The Intercept: https://theintercept.com/ (主要專注英美，由Snoweden leaks的記者Glen Greenwald成立)
+- The Intercept: https://theintercept.com/ (主要專注英美，由Snowden leaks的記者Glen Greenwald成立)
 - The Guardian: https://www.theguardian.com/international (衛報)
 
