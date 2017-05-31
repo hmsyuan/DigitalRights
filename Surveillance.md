@@ -31,9 +31,9 @@
 
 ## 國家＆企業聯合監控
 #### Released by NGO
-- Surveillance Industry Index(transparency toolkit)|2016: https://sii.transparencytoolkit.org/ （監控產業）
-- ICWATCH(transparency toolkit)|2015: https://transparencytoolkit.org/icwatch/ (監控可能的從業人員)
-- Hacking Team Email Archive|2015: https://transparencytoolkit.org/hacking-team-email-archive/ (揭露Hacking Team的Email)
+- Surveillance Industry Index(transparency toolkit) | 2016: https://sii.transparencytoolkit.org/ （監控產業）
+- ICWATCH(transparency toolkit) | 2015: https://transparencytoolkit.org/icwatch/ (監控可能的從業人員)
+- Hacking Team Email Archive | 2015: https://transparencytoolkit.org/hacking-team-email-archive/ (揭露Hacking Team的Email)
 
 # 監控人權文件、討論
 
@@ -46,6 +46,6 @@
 
 ## 討論
 ### 相關媒體
-- The Intercept: https://theintercept.com/ (專注美國)
-
+- The Intercept: https://theintercept.com/ (主要專注英美，由Snoweden leaks的記者Glen Greenwald成立)
+- The Guardian: https://www.theguardian.com/international (衛報)
 
