@@ -1,5 +1,5 @@
 # 監控類型區分
-
+- Privacy International: https://www.privacyinternational.org/privacy-101 （區分了近20個類型）
 # 各區域監控情形
 
 ## 國家監控
