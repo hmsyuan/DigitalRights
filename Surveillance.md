@@ -9,7 +9,9 @@
 - 2012 無國界記者：Enemies of Internet Special Edition: Surveillance: http://surveillance.rsf.org/en/
 - Privacy International 各國隱私概況：https://www.privacyinternational.org/reports/state-of-privacy
 	- 阿根廷、巴西、智利、哥倫比亞、埃及、印度、印尼、約旦、肯亞、墨西哥、摩洛哥、巴基斯坦、菲律賓、南非、泰國、突尼西亞、烏干達（後續也可考慮更新台灣）
-
+	
+#### Released by Academic
+- Citizen Lab（多倫多大學公民實驗室）: http://citizenlab.org/ （特點：關注中國、西藏議題，技術、法律研究團隊）
 
 ### 各大洲
 
@@ -23,9 +25,11 @@
 
 #### 北美
 
+#### 歐洲
+
 #### 非洲
 
-#### 澳洲
+#### 大洋洲
 
 
 ## 企業監控
