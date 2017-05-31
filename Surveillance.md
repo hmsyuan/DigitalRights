@@ -60,7 +60,7 @@
 #### By Corporation
 - 各企業transparency report
     - 彙整：AccessNow's Transparency Reporting Index: https://www.accessnow.org/transparency-reporting-index/ 
-        - 至少還缺Line
+      - 至少還缺Line
 
 #### By Government
 - 請見各國隱私保護委員會
