@@ -54,7 +54,7 @@
 
 #### By Academic
 - Transparency Reporting Toolkit (by Berkman Klein Center at Harvard University): https://cyber.harvard.edu/publications/2016/transparency_memos
- - 僅包含Data request部分
+   - 僅包含Data request部分
 
 #### By Corporation
 - AccessNow's Transparency Reporting Index: https://www.accessnow.org/transparency-reporting-index/ 
