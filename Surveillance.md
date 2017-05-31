@@ -73,6 +73,8 @@
 ### Released by NGO
 - 國家通訊監控應遵守的國際人權原則（NECESSARY & PROPORTIONATE）：https://necessaryandproportionate.org/
 ### Released by UN
+- 2013, A/RES/68/167, 數位時代的隱私權: http://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/68/167
+- 2014, A/RES/69/166, 數位時代的隱私權: http://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/69/166
 
 ### Released by Countries
 #### 加拿大
@@ -80,7 +82,9 @@
     - OPCC (Office of the Privacy Commissioner of Canada) 對各企業透明報告的評比: https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2015/transp_201506/
 
 ## UN文件
-- 2013, A/HRC/23/40, Frank La Rue, : http://www.ohchr.org/Documents/HRBodies/HRCouncil/RegularSession/Session23/A.HRC.23.40_EN.pdf
+- 2013, A/HRC/23/40, Frank La Rue(言論自由特別報告員): http://www.ohchr.org/Documents/HRBodies/HRCouncil/RegularSession/Session23/A.HRC.23.40_EN.pdf
+- 2014, A/HRC/27/37, 人權高專年度報告: http://www.ohchr.org/EN/HRBodies/HRC/RegularSessions/Session27/Documents/A.HRC.27.37_en.pdf
+
 
 ## 其他討論
 ### 相關媒體
