@@ -62,7 +62,7 @@
 ### Released by NGO
 - 國家通訊監控應遵守的國際人權原則（NECESSARY & PROPORTIONATE）：https://necessaryandproportionate.org/
 ### Released by UN
-- 
+- 2013, A/HRC/23/40, Frank La Rue, : http://www.ohchr.org/Documents/HRBodies/HRCouncil/RegularSession/Session23/A.HRC.23.40_EN.pdf
 ### Released by Countries
 #### 加拿大
 - 工業部 Transaprency Reporting Guidelines: http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf11057.html
