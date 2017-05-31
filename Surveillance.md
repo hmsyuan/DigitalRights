@@ -84,6 +84,8 @@
 ## UN文件
 - 2013, A/HRC/23/40, Frank La Rue(言論自由特別報告員): http://www.ohchr.org/Documents/HRBodies/HRCouncil/RegularSession/Session23/A.HRC.23.40_EN.pdf
 - 2014, A/HRC/27/37, 人權高專年度報告: http://www.ohchr.org/EN/HRBodies/HRC/RegularSessions/Session27/Documents/A.HRC.27.37_en.pdf
+- 2015, A/HRC/29/32, David Kaye(言論自由特別報告員): http://ap.ohchr.org/documents/dpage_e.aspx?si=A/HRC/29/32
+
 
 
 ## 其他討論
