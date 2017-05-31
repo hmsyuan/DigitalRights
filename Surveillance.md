@@ -75,7 +75,7 @@
 ### Released by Countries
 #### 加拿大
 - 工業部透明報告指導原則 (Transaprency Reporting Guidelines): http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf11057.html
-- OPCC (Office of the Privacy Commissioner of Canada) 對各企業透明報告的評比: https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2015/transp_201506/
+    - OPCC (Office of the Privacy Commissioner of Canada) 對各企業透明報告的評比: https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2015/transp_201506/
 
 ## UN文件
 - 2013, A/HRC/23/40, Frank La Rue, : http://www.ohchr.org/Documents/HRBodies/HRCouncil/RegularSession/Session23/A.HRC.23.40_EN.pdf
