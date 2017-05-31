@@ -7,7 +7,6 @@
 ##### 南美洲
 - EFF(host)：https://necessaryandproportionate.org/
 
-
 ##### 亞洲
 
 
@@ -19,4 +18,7 @@
 
 
 ## 企業
+
+## 國家＆企業
+- 無國界記者：Enemies of Internet Special Edition: Surveillance: http://surveillance.rsf.org/en/
 
