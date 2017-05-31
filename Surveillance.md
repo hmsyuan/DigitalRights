@@ -8,6 +8,7 @@
 - 2014 無國界記者 Enemies of Internet：http://12mars.rsf.org/2014-en/
 - 2012 無國界記者：Enemies of Internet Special Edition: Surveillance: http://surveillance.rsf.org/en/
 - Privacy International 各國隱私概況：https://www.privacyinternational.org/reports/state-of-privacy
+  ｀｀｀ 阿根廷、巴西、
 
 
 ### 各大洲
