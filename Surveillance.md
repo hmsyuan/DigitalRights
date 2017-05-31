@@ -19,9 +19,7 @@
 - EFF(host)：https://necessaryandproportionate.org/americas-reports
 	- 阿根廷、巴西、智利、哥倫比亞、墨西哥、巴拉圭、秘魯、美國、烏拉圭
 #### 亞洲
-- Tawian 網路透明報告：http://transparency.tahr.org.tw/TITR_Report_2015.pdf
-- South Korea 網路透明報告：http://transparency.kr/?ckattempt=1
-- Hong Kong 網路透明報告：http://transparency.jmsc.hku.hk/
+
 
 #### 北美
 
@@ -50,6 +48,9 @@
     - 2016: https://www.eff.org/who-has-your-back-2016  
     - 2015: https://www.eff.org/who-has-your-back-government-data-requests-2015
 - Ranking Digital Rights(RDR): https://rankingdigitalrights.org/	
+- Tawian 網路透明報告：http://transparency.tahr.org.tw/TITR_Report_2015.pdf
+- South Korea 網路透明報告：http://transparency.kr/?ckattempt=1
+- Hong Kong 網路透明報告：http://transparency.jmsc.hku.hk/
 
 # 監控人權文件、討論
 
@@ -60,6 +61,9 @@
 ### Released by UN
 - 
 ### Released by Countries
+#### 加拿大
+- 工業部 Transaprency Reporting Guidelines: http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf11057.html
+- OPCC (Office of the Privacy Commissioner of Canada) 對各企業透明報告的評比: https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2015/transp_201506/
 
 ## 討論
 ### 相關媒體
