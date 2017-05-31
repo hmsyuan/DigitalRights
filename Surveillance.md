@@ -1,6 +1,6 @@
 # 監控類型區分
 - Privacy International: https://www.privacyinternational.org/privacy-101 （區分了近20個類型）
-# 各區域監控情形
+# 各類監控情形
 
 ## 國家監控
 ### 綜合（難以分區or不分區）
@@ -34,15 +34,27 @@
 
 ## 企業監控
 
+
+
 ## 國家＆企業聯合監控
 #### Released by NGO
 - Surveillance Industry Index(transparency toolkit) | 2016: https://sii.transparencytoolkit.org/ （監控產業）
 - ICWATCH(transparency toolkit) | 2015: https://transparencytoolkit.org/icwatch/ (監控可能的從業人員)
 - Hacking Team Email Archive | 2015: https://transparencytoolkit.org/hacking-team-email-archive/ (揭露Hacking Team的Email)
 
+
+## 反監控
+
+#### By NGO
+- EFF's who has your back 
+	-2016: https://www.eff.org/who-has-your-back-2016
+	-2015: https://www.eff.org/who-has-your-back-government-data-requests-2015
+- Ranking Digital Rights(RDR): https://rankingdigitalrights.org/	
+
 # 監控人權文件、討論
 
 ## 正式文件
+
 ### Released by NGO
 - 國家通訊監控應遵守的國際人權原則（NECESSARY & PROPORTIONATE）：https://necessaryandproportionate.org/
 ### Released by UN
