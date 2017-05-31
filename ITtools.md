@@ -62,6 +62,10 @@
 #### Instant Message
 - Signal: https://signal.org/
 
+## 資料處理＆視覺化
+#### 視覺化
+- Tableau Public: https://public.tableau.com/s/
+
 ## 文字紀錄
 #### 逐字稿
 - SayIt: http://sayit.mysociety.org/
