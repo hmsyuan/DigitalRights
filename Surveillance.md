@@ -52,6 +52,9 @@
 - South Korea 網路透明報告：http://transparency.kr/?ckattempt=1
 - Hong Kong 網路透明報告：http://transparency.jmsc.hku.hk/
 
+#### By Government
+- 請見各國隱私保護委員會
+
 # 監控人權文件、討論
 
 ## 正式文件
