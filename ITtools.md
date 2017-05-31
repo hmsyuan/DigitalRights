@@ -8,7 +8,8 @@
 - Media Wiki: https://www.mediawiki.org/wiki/MediaWiki
 #### HTML&CSS教學
 - interneting is hard: https://internetingishard.com/html-and-css/
-
+#### Blog
+- Medium: https://medium.com/
 ## 線上共筆、簡報
 #### 支援markdown
 - hackmd: https://hackmd.io/ （全語法撰寫，可支援圖表（流程圖、示意圖、函數）等，也有簡報模式。）
