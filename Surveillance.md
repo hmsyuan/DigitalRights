@@ -16,7 +16,9 @@
 - EFF(host)：https://necessaryandproportionate.org/americas-reports
 
 ##### 亞洲
-
+- 台灣網路透明報告：http://transparency.tahr.org.tw/TITR_Report_2015.pdf
+- 南韓網路透明報告：http://transparency.kr/?ckattempt=1
+- 香港網路透明報告：http://transparency.jmsc.hku.hk/
 
 ##### 北美
 
