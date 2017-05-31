@@ -29,9 +29,12 @@
 
 ## 國家＆企業聯合監控
 
-# 監控人權文件
+# 監控人權文件、討論
 
+## 正式文件
 ### Released by NGO
 - 國家通訊監控應遵守的國際人權原則（NECESSARY & PROPORTIONATE）：https://necessaryandproportionate.org/
 ### Released by UN
 ### Released by Countries
+
+## 討論
