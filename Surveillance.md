@@ -13,7 +13,7 @@
 #### Released by Academic
 - Citizen Lab（多倫多大學公民實驗室）: http://citizenlab.org/ （特點：關注中國、西藏議題，技術、法律研究團隊）
 
-### 各大洲
+### 各洲的國家
 
 #### 南美洲
 - EFF(host)：https://necessaryandproportionate.org/americas-reports
