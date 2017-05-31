@@ -30,3 +30,7 @@
 ## 國家＆企業聯合監控
 
 # 監控人權文件
+
+## Released by NGO
+## Released by UN
+## Released by Countries
