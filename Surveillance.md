@@ -8,7 +8,7 @@
 - 2014 無國界記者 Enemies of Internet：http://12mars.rsf.org/2014-en/
 - 2012 無國界記者：Enemies of Internet Special Edition: Surveillance: http://surveillance.rsf.org/en/
 - Privacy International 各國隱私概況：https://www.privacyinternational.org/reports/state-of-privacy
-- 
+
 
 ### 各大洲
 
@@ -30,6 +30,10 @@
 ## 企業監控
 
 ## 國家＆企業聯合監控
+#### Released by NGO
+- Surveillance Industry Index(transparency toolkit)|2016: https://sii.transparencytoolkit.org/ （監控產業）
+- ICWATCH(transparency toolkit)|2015: https://transparencytoolkit.org/icwatch/ (監控可能的從業人員)
+- Hacking Team Email Archive|2015: https://transparencytoolkit.org/hacking-team-email-archive/ (揭露Hacking Team的Email)
 
 # 監控人權文件、討論
 
@@ -37,6 +41,11 @@
 ### Released by NGO
 - 國家通訊監控應遵守的國際人權原則（NECESSARY & PROPORTIONATE）：https://necessaryandproportionate.org/
 ### Released by UN
+- 
 ### Released by Countries
 
 ## 討論
+### 相關媒體
+- The Intercept: https://theintercept.com/ (專注美國)
+
+
