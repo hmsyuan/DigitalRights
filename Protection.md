@@ -9,4 +9,4 @@
 ### US
 #### White House
 - 2017, [Privacy in our Digital Lives: Protecting Individuals and Promoting Innovation](https://epic.org/privacy/Privacy_in_Our_Digital_Lives.pdf) 
-    - 連結後來[被從白宮網站上拿掉了](http://adage.com/article/privacy-and-regulation/privacy-report-removed-white-house-site/307632/)
+    - 報告連結後來[被從白宮網站上拿掉了](http://adage.com/article/privacy-and-regulation/privacy-report-removed-white-house-site/307632/)
