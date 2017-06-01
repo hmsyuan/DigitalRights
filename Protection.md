@@ -7,8 +7,8 @@
 
 ## America
 ### US
-#### White House
+#### White House (Big Data Group)
 - 2017, [Privacy in our Digital Lives: Protecting Individuals and Promoting Innovation](https://epic.org/privacy/Privacy_in_Our_Digital_Lives.pdf) 
     - 報告連結後來[被從白宮網站上拿掉了](http://adage.com/article/privacy-and-regulation/privacy-report-removed-white-house-site/307632/)
 - 2016, [Big Data: A Report on Algorithmic Systems, Opportunity, and Civil Rights](https://web.archive.org/web/20161219083427/https://www.whitehouse.gov/sites/default/files/microsites/ostp/2016_0504_data_discrimination.pdf)
-    - 連結似乎也被拿掉了...
+    - 連結似乎也被拿掉了...
