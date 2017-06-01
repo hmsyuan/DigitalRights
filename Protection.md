@@ -14,3 +14,4 @@
     - 連結似乎也被拿掉了
 - 2015, [Big Data: Seizing Opportunities, Preserving Values](https://obamawhitehouse.archives.gov/sites/default/files/docs/20150204_Big_Data_Seizing_Opportunities_Preserving_Values_Memo.pdf), interim report
 - 2014, [Big Data: Seizing Opportunities, Preserving Values](https://obamawhitehouse.archives.gov/sites/default/files/docs/big_data_privacy_report_5.1.14_final_print.pdf)
+有關Big Data相關的資料，可以[見此](https://github.com/hmsyuan/RtP/blob/master/bigdata.md)。
