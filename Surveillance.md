@@ -21,7 +21,7 @@
 ### 各洲的國家
 
 #### 南美洲
-- [EFF(host)](https://necessaryandproportionate.org/americas-reports)
+- [America Report, EFF(host)](https://necessaryandproportionate.org/americas-reports)
 	- 阿根廷、巴西、智利、哥倫比亞、墨西哥、巴拉圭、秘魯、美國、烏拉圭
 #### 亞洲
 - [台灣: Taiwan Internet Transparency Report](https://www.tahr.org.tw/transparency/)
@@ -47,20 +47,20 @@
 - [Hacking Team Email Archive]( https://transparencytoolkit.org/hacking-team-email-archive/), 2015: 揭露Hacking Team的Email
 
 #### Released by Whistleblower
-- PRISM, Edward Snowden, 2013: https://nsa.gov1.info/dni/prism.html
+- [PRISM](https://nsa.gov1.info/dni/prism.html), Edward Snowden, 2013
 ## 反監控報告
 
 #### By NGO
 - EFF's Who has your back
-    - 2016: https://www.eff.org/who-has-your-back-2016  
-    - 2015: https://www.eff.org/who-has-your-back-government-data-requests-2015
-- Ranking Digital Rights(RDR): https://rankingdigitalrights.org/	
-- Tawian 網路透明報告：http://transparency.tahr.org.tw/TITR_Report_2015.pdf
-- South Korea 網路透明報告：http://transparency.kr/?ckattempt=1
-- Hong Kong 網路透明報告：http://transparency.jmsc.hku.hk/
+    - [2016 report](https://www.eff.org/who-has-your-back-2016 ) 
+    - [2015 report](https://www.eff.org/who-has-your-back-government-data-requests-2015)
+- [Ranking Digital Rights(RDR)](https://rankingdigitalrights.org/)	
+- [Tawian 網路透明報告](http://transparency.tahr.org.tw/TITR_Report_2015.pdf)
+- [South Korea 網路透明報告](http://transparency.kr/?ckattempt=1)
+- [Hong Kong 網路透明報告](http://transparency.jmsc.hku.hk/)
 
 #### By Academic
-- Transparency Reporting Toolkit (by Berkman Klein Center at Harvard University): https://cyber.harvard.edu/publications/2016/transparency_memos
+- [Transparency Reporting Toolkit](https://cyber.harvard.edu/publications/2016/transparency_memos) (by Berkman Klein Center at Harvard University): 
    - 僅包含Data request部分
 
 #### By Corporation
