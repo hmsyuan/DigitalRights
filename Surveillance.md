@@ -42,11 +42,12 @@
 
 ## 國家＆企業聯合監控
 #### Released by NGO
-- Surveillance Industry Index(transparency toolkit) | 2016: https://sii.transparencytoolkit.org/ （監控產業）
-- ICWATCH(transparency toolkit) | 2015: https://transparencytoolkit.org/icwatch/ (監控可能的從業人員)
-- Hacking Team Email Archive | 2015: https://transparencytoolkit.org/hacking-team-email-archive/ (揭露Hacking Team的Email)
+- Surveillance Industry Index(transparency toolkit), 2016: https://sii.transparencytoolkit.org/ （監控產業）
+- ICWATCH(transparency toolkit), 2015: https://transparencytoolkit.org/icwatch/ (監控可能的從業人員)
+- Hacking Team Email Archive, 2015: https://transparencytoolkit.org/hacking-team-email-archive/ (揭露Hacking Team的Email)
 
-
+#### Released by Whistleblower
+- PRISM, Edward Snowden, 2013: https://nsa.gov1.info/dni/prism.html
 ## 反監控報告
 
 #### By NGO
