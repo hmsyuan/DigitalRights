@@ -78,8 +78,8 @@
 ### Released by NGO
 - [國家通訊監控應遵守的國際人權原則（NECESSARY & PROPORTIONATE）](https://necessaryandproportionate.org/)
 ### Released by UN
-- 2013, [A/RES/68/167](http://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/68/167), 數位時代的隱私權: 
-- 2014, [A/RES/69/166](http://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/69/166), 數位時代的隱私權: 
+- 2013, [A/RES/68/167](http://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/68/167), 數位時代的隱私權
+- 2014, [A/RES/69/166](http://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/69/166), 數位時代的隱私權 
 
 ### Released by Countries
 #### 加拿大
