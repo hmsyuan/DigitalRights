@@ -97,4 +97,4 @@
 ### 相關媒體
 - The Intercept: https://theintercept.com/ (主要專注英美，由Snowden leaks的記者Glen Greenwald成立)
 - The Guardian: https://www.theguardian.com/international (衛報)
-
+- Motherboard: https://motherboard.vice.com/en_us (樂於對未來提出警語的科技媒體）
