@@ -14,17 +14,17 @@
     - [2012 Special Edition: Surveillance](http://surveillance.rsf.org/en/)
 - [Privacy International 各國隱私概況](https://www.privacyinternational.org/reports/state-of-privacy)
 	- 阿根廷、巴西、智利、哥倫比亞、埃及、印度、印尼、約旦、肯亞、墨西哥、摩洛哥、巴基斯坦、菲律賓、南非、泰國、突尼西亞、烏干達（後續也可考慮更新台灣）
-- 五眼(Five eyes)同盟（Privacy International): https://www.privacyinternational.org/node/51	
+- [五眼(Five eyes)同盟（Privacy International)](https://www.privacyinternational.org/node/51)
 #### Released by Academic
-- Citizen Lab（多倫多大學公民實驗室）: http://citizenlab.org/ （特點：關注中國、西藏議題，技術、法律研究團隊）
+- [Citizen Lab（多倫多大學公民實驗室）](http://citizenlab.org/) （特點：關注中國、西藏議題，技術、法律研究團隊）
 
 ### 各洲的國家
 
 #### 南美洲
-- EFF(host)：https://necessaryandproportionate.org/americas-reports
+- [EFF(host)](https://necessaryandproportionate.org/americas-reports)
 	- 阿根廷、巴西、智利、哥倫比亞、墨西哥、巴拉圭、秘魯、美國、烏拉圭
 #### 亞洲
-- 台灣: Taiwan Internet Transparency Report: https://www.tahr.org.tw/transparency/
+- [台灣: Taiwan Internet Transparency Report](https://www.tahr.org.tw/transparency/)
     - issues: communication surveillance without warrant, wiretap, large database established by data sharing between government departments, eID, eTag, intrusive surveillance, drug testing, biometric, data collection and usage without getting consent(relating to de-identification).
 
 #### 北美
@@ -42,9 +42,9 @@
 
 ## 國家＆企業聯合監控
 #### Released by NGO
-- Surveillance Industry Index(transparency toolkit), 2016: https://sii.transparencytoolkit.org/ （監控產業）
-- ICWATCH(transparency toolkit), 2015: https://transparencytoolkit.org/icwatch/ (監控可能的從業人員)
-- Hacking Team Email Archive, 2015: https://transparencytoolkit.org/hacking-team-email-archive/ (揭露Hacking Team的Email)
+- [Surveillance Industry Index]( https://sii.transparencytoolkit.org/), transparency toolkit, 2016: 監控產業
+- [ICWATCH, transparency toolkit](https://transparencytoolkit.org/icwatch/), 2015: 監控可能的從業人員
+- [Hacking Team Email Archive]( https://transparencytoolkit.org/hacking-team-email-archive/), 2015: 揭露Hacking Team的Email
 
 #### Released by Whistleblower
 - PRISM, Edward Snowden, 2013: https://nsa.gov1.info/dni/prism.html
