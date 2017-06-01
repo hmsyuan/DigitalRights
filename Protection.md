@@ -17,5 +17,5 @@
   
 有關Big Data其他的研究資料，可以[見此](https://github.com/hmsyuan/RtP/blob/master/bigdata.md)。
 
-#### 國家科學技術委員會
+#### 國家科學技術委員會 (National Science and Technology Council)
 - 2016, [National Privacy Research Strategy](https://obamawhitehouse.archives.gov/sites/default/files/nprs_nstc_review_final.pdf)
