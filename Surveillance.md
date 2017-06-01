@@ -65,37 +65,37 @@
 
 #### By Corporation
 - 各企業transparency report
-    - 彙整：AccessNow's Transparency Reporting Index: https://www.accessnow.org/transparency-reporting-index/ 
+    - 彙整：[AccessNow's Transparency Reporting Index](https://www.accessnow.org/transparency-reporting-index/ )
 
 #### By Government
 - 請見各國隱私保護委員會
-- US's NSA: https://www.nsa.gov/about/civil-liberties/reports/
+- US's [NSA report](https://www.nsa.gov/about/civil-liberties/reports/)
 
 # 反監控人權原則、UN文件、其他討論
 
 ## 人權原則
 
 ### Released by NGO
-- 國家通訊監控應遵守的國際人權原則（NECESSARY & PROPORTIONATE）：https://necessaryandproportionate.org/
+- [國家通訊監控應遵守的國際人權原則（NECESSARY & PROPORTIONATE）](https://necessaryandproportionate.org/)
 ### Released by UN
-- 2013, A/RES/68/167, 數位時代的隱私權: http://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/68/167
-- 2014, A/RES/69/166, 數位時代的隱私權: http://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/69/166
+- 2013, [A/RES/68/167](http://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/68/167), 數位時代的隱私權: 
+- 2014, [A/RES/69/166](http://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/69/166), 數位時代的隱私權: 
 
 ### Released by Countries
 #### 加拿大
-- 工業部透明報告指導原則 (Transaprency Reporting Guidelines): http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf11057.html
-    - OPCC (Office of the Privacy Commissioner of Canada) 對各企業透明報告的評比: https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2015/transp_201506/
+- [工業部透明報告指導原則 (Transaprency Reporting Guidelines)](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf11057.html)
+    - OPCC (Office of the Privacy Commissioner of Canada) [對各企業透明報告的評比](https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2015/transp_201506/)
 
 ## UN文件
-- 2013, A/HRC/23/40, Frank La Rue(言論自由特別報告員): http://www.ohchr.org/Documents/HRBodies/HRCouncil/RegularSession/Session23/A.HRC.23.40_EN.pdf
-- 2014, A/HRC/27/37, 人權高專年度報告: http://www.ohchr.org/EN/HRBodies/HRC/RegularSessions/Session27/Documents/A.HRC.27.37_en.pdf
-- 2015, A/HRC/29/32, David Kaye(言論自由特別報告員): http://ap.ohchr.org/documents/dpage_e.aspx?si=A/HRC/29/32
+- 2013, [A/HRC/23/40](http://www.ohchr.org/Documents/HRBodies/HRCouncil/RegularSession/Session23/A.HRC.23.40_EN.pdf), Frank La Rue(言論自由特別報告員)
+- 2014, [A/HRC/27/37](http://www.ohchr.org/EN/HRBodies/HRC/RegularSessions/Session27/Documents/A.HRC.27.37_en.pdf), 人權高專年度報告
+- 2015, [A/HRC/29/32](http://ap.ohchr.org/documents/dpage_e.aspx?si=A/HRC/29/32), David Kaye(言論自由特別報告員)
 
 
 
 ## 其他討論
 ### 相關媒體
-- The Intercept: https://theintercept.com/ (主要專注英美，由Snowden leaks的記者Glen Greenwald成立)
-- The Guardian: https://www.theguardian.com/international (衛報)
-- Motherboard: https://motherboard.vice.com/en_us (樂於對未來提出警語的科技媒體）
-- Wired: https://www.wired.com/ (有特別強調科技面向)
+- [The Intercept](https://theintercept.com/) (主要專注英美，由Snowden leaks的記者Glen Greenwald成立)
+- [The Guardian](https://www.theguardian.com/international (衛報))
+- [Motherboard](https://motherboard.vice.com/en_us) (樂於對未來提出警語的科技媒體）
+- [Wired](https://www.wired.com/ )(有特別強調科技面向)
