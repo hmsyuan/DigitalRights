@@ -1,4 +1,4 @@
-本篇原則上是整理了其他網站現有的資源，作為希望對Surveillance有大局觀的讀者的入口用。所收錄連結原則上是依以下條件進行篩選：
+本篇整理了其他網站現有的資源，作為希望對Surveillance有大局觀的讀者的入口用。所收錄連結原則上是依以下條件進行篩選：
 - 內容針對的主要是Surveillance，而非更廣的Data Protection。（後者的資料[見此](https://github.com/hmsyuan/RtP/blob/master/Protection.md)）
 - 以具整體考量或會定期更新的網站或報告為主，針對即時事件所發的單篇文章如無指標性不採用。
 
