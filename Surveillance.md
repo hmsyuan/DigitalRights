@@ -44,7 +44,7 @@
 ## 國家＆企業聯合監控
 #### Released by NGO
 - 2016, [Surveillance Industry Index]( https://sii.transparencytoolkit.org/), transparency toolkit: 監控產業
-- 2015, [ICWATCH, transparency toolkit](https://transparencytoolkit.org/icwatch/): 監控可能的從業人員
+- 2015, [ICWATCH, transparency toolkit](https://transparencytoolkit.org/icwatch/): 可能的監控從業人員
 - 2015, [Hacking Team Email Archive]( https://transparencytoolkit.org/hacking-team-email-archive/): 揭露Hacking Team的Email
 
 #### Released by Whistleblower
