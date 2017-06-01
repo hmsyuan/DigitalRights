@@ -1,3 +1,7 @@
+本篇原則上是整理了其他網站現有的資源，作為希望對Surveillance有大局觀的讀者的入口用。
+
+---
+
 # 監控類型區分
 - Privacy International: https://www.privacyinternational.org/privacy-101 （區分了近20個類型）
 # 各類監控情形
@@ -60,7 +64,6 @@
 #### By Corporation
 - 各企業transparency report
     - 彙整：AccessNow's Transparency Reporting Index: https://www.accessnow.org/transparency-reporting-index/ 
-      - 至少還缺Line
 
 #### By Government
 - 請見各國隱私保護委員會
