@@ -24,7 +24,7 @@
 - EFF(host)：https://necessaryandproportionate.org/americas-reports
 	- 阿根廷、巴西、智利、哥倫比亞、墨西哥、巴拉圭、秘魯、美國、烏拉圭
 #### 亞洲
-- Taiwan Internet Transparency Report: https://www.tahr.org.tw/transparency/
+- 台灣: Taiwan Internet Transparency Report: https://www.tahr.org.tw/transparency/
     - issues: communication surveillance without warrant, large database established by data sharing between government departments, eID, eTag, intrusive surveillance, drug testing, biometric, data collection and usage without getting consent.
 
 #### 北美
