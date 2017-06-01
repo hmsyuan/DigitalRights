@@ -10,9 +10,9 @@
 ### 綜合（難以分區or不分區）
 #### Released by NGO
 - 無國界記者 Enemies of Internet
-    - 2014: http://12mars.rsf.org/2014-en/
-    - 2012 Special Edition: Surveillance: http://surveillance.rsf.org/en/
-- Privacy International 各國隱私概況：https://www.privacyinternational.org/reports/state-of-privacy
+    - [2014 report](http://12mars.rsf.org/2014-en/)
+    - [2012 Special Edition: Surveillance](http://surveillance.rsf.org/en/)
+- [Privacy International 各國隱私概況](https://www.privacyinternational.org/reports/state-of-privacy)
 	- 阿根廷、巴西、智利、哥倫比亞、埃及、印度、印尼、約旦、肯亞、墨西哥、摩洛哥、巴基斯坦、菲律賓、南非、泰國、突尼西亞、烏干達（後續也可考慮更新台灣）
 - 五眼(Five eyes)同盟（Privacy International): https://www.privacyinternational.org/node/51	
 #### Released by Academic
