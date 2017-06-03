@@ -1,12 +1,15 @@
 本篇為隱私保護的制度、法規、方式、報告的入口連結整理，不涉入內容討論。挑選連結的原則如下：  
-- 涉及內容主要為個人資料保護
-- 已開始施行之法規    
+- 涉及內容主要為個人資料保護（國際公約例外）
+- 已開始施行之法規    
 
 其他與隱私有關，但非主要著重於此的內容，請見下方提供之各國情形連結。
 
 ---
 
 ## United Nations
+- [公民與政治權利國際公約第17條](http://www.6law.idv.tw/6law/law2/%E5%85%AC%E6%B0%91%E8%88%87%E6%94%BF%E6%B2%BB%E6%AC%8A%E5%88%A9%E5%9C%8B%E9%9A%9B%E5%85%AC%E7%B4%84.htm)
+- [世界人權宣言第12條](http://www.un.org/zh/universal-declaration-human-rights/)
+
 #### Special Rapporteur
 - [Call to establish a UN special Rapporteur on the Right to Privacy](https://www.amnesty.org/en/documents/ior40/1207/2015/en/), 2015, NGO joint statement
 
