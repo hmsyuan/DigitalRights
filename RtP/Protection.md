@@ -49,3 +49,7 @@
 ### Malaysia
 ### Mongolia
 ### China
+### Japan
+### India
+### Singapore
+### Philippines
