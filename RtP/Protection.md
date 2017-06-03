@@ -42,7 +42,7 @@
 - [通訊保障及監察法](http://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=K0060044)
 - [電子簽章法](http://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=J0080037)  
 
-台灣的個資保護完整情形見此。（尚未整理）
+有關台灣的個資保護的相關討論可[見此](https://github.com/hmsyuan/DigitalRights/blob/master/RtP/Country/Taiwan.md)。
 
 ### South Korea
 - [Data Information Protection Act]()
