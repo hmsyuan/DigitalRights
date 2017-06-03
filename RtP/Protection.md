@@ -20,4 +20,15 @@
 
 ##### 國家科學技術委員會 (National Science and Technology Council)
 - 2016, [National Privacy Research Strategy](https://obamawhitehouse.archives.gov/sites/default/files/nprs_nstc_review_final.pdf)
----
+
+
+## EU
+### EU Parliament
+- [General Data Protection Regulation](http://www.eugdpr.org/eugdpr.org.html)
+
+## Asia
+### Taiwan
+### South Korea
+### Malaysia
+### Mongolia
+### China
