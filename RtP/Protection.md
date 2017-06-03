@@ -1,8 +1,11 @@
 本篇為隱私保護的制度、法規、方式、報告的入口連結整理，不涉及細節介紹。挑選連結的原則如下：  
 - 涉及內容主要為個人資料保護
-- 已開始施行之法規  
+- 已開始施行之法規    
+
 其他與隱私有關，但非主要著重於此的內容，請見下方提供之各國情形連結。
+
 ---
+
 ## United Nations
 #### Special Rapporteur
 - [Call to establish a UN special Rapporteur on the Right to Privacy](https://www.amnesty.org/en/documents/ior40/1207/2015/en/), 2015, NGO joint statement
