@@ -7,8 +7,8 @@
 ---
 
 ## United Nations
-- [公民與政治權利國際公約第17條](http://www.6law.idv.tw/6law/law2/%E5%85%AC%E6%B0%91%E8%88%87%E6%94%BF%E6%B2%BB%E6%AC%8A%E5%88%A9%E5%9C%8B%E9%9A%9B%E5%85%AC%E7%B4%84.htm)
 - [世界人權宣言第12條](http://www.un.org/zh/universal-declaration-human-rights/)
+- [公民與政治權利國際公約第17條](http://www.6law.idv.tw/6law/law2/%E5%85%AC%E6%B0%91%E8%88%87%E6%94%BF%E6%B2%BB%E6%AC%8A%E5%88%A9%E5%9C%8B%E9%9A%9B%E5%85%AC%E7%B4%84.htm)
 
 #### Special Rapporteur
 - [Call to establish a UN special Rapporteur on the Right to Privacy](https://www.amnesty.org/en/documents/ior40/1207/2015/en/), 2015, NGO joint statement
