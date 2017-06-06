@@ -1,1 +1,1 @@
-依照Privacy International提供的[問題清單](https://www.privacyinternational.org/sites/default/files/sopquestions.pdf)編寫
+依照Privacy International提供的[問題清單](https://github.com/hmsyuan/DigitalRights/blob/master/RtP/Country/Guidelines.md)編寫
