@@ -17,21 +17,23 @@ human right, including:
 > - ASEAN Human Rights Declaration (Article 21)
 > - Other international or regional instruments.
 
-Surveillance
-Surveillance laws
-Are there laws or legal provisions that allow the surveillance of communications – internet
+## Surveillance laws
+> Are there laws or legal provisions that allow the surveillance of communications – internet
 and telephonic?
-- Under what circumstances can surveillance take place?
-- Do the laws make a distinction between communications content and metadata; if so, do
+> - Under what circumstances can surveillance take place?
+> - Do the laws make a distinction between communications content and metadata; if so, do
 they have different provisions and so different levels of protection?
-- Do the laws cover bulk interception?
-Are there directives/orders from the executive (president, royalty, prime minister)
+> - Do the laws cover bulk interception?  
+---
+> Are there directives/orders from the executive (president, royalty, prime minister)
 authorizing interception or access by law enforcement or authorized authorities? Under
 what circumstances can these powers be used?
-Are there are any bills that are currently being considered that would have an effect on
+---
+> Are there are any bills that are currently being considered that would have an effect on
 privacy and surveillance (for example, expanding the investigative powers of various
 government agencies)?
-Surveillance actors
+
+## Surveillance actors
 i. Intelligence/security agencies
 What intelligence/security agencies are empowered by law to monitor communications?
 Under which law(s) do they operate? What are the limitations to the communications they
