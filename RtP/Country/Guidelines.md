@@ -1,5 +1,7 @@
-原檔連結[見此](https://www.privacyinternational.org/sites/default/files/sopquestions.pdf)
----
+原檔連結[見此](https://www.privacyinternational.org/sites/default/files/sopquestions.pdf)  
+
+----
+
 # State of Privacy Briefing guidelines
 
 ## The constitution (if any)
