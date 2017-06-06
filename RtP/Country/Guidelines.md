@@ -5,17 +5,16 @@
 
 ## Regional and International conventions
 
-> Is the country signatory to international treaties that recognise privacy as a fundamental
-human right, including:
-> - Universal Declaration on Human Rights (Article 12)
-> - International Convention on Civil and Political Rights (Article 17)
-> - International Convention on the Protection of the Rights of All Migrant Workers and
-> Members of their Families (Article 14)
-> - Arab Charter of Human Rights (Article 21),
-> - African Charter on the Rights and Welfare of the Child (Article 10)
-> - American Convention on Human Rights (Article 11)
-> - ASEAN Human Rights Declaration (Article 21)
-> - Other international or regional instruments.
+> Is the country signatory to international treaties that recognise privacy as a fundamental human right, including:
+- Universal Declaration on Human Rights (Article 12)
+- International Convention on Civil and Political Rights (Article 17)
+- International Convention on the Protection of the Rights of All Migrant Workers and
+Members of their Families (Article 14)
+- Arab Charter of Human Rights (Article 21),
+- African Charter on the Rights and Welfare of the Child (Article 10)
+- American Convention on Human Rights (Article 11)
+- ASEAN Human Rights Declaration (Article 21)
+- Other international or regional instruments.
 
 ## Surveillance laws
 > Are there laws or legal provisions that allow the surveillance of communications – internet
@@ -29,19 +28,16 @@ they have different provisions and so different levels of protection?
 authorizing interception or access by law enforcement or authorized authorities? Under
 what circumstances can these powers be used?
 ---
-> Are there are any bills that are currently being considered that would have an effect on
-privacy and surveillance (for example, expanding the investigative powers of various
-government agencies)?
+> Are there are any bills that are currently being considered that would have an effect on privacy and surveillance (for example, expanding the investigative powers of various government agencies)?
 
 ## Surveillance actors
-i. Intelligence/security agencies
-What intelligence/security agencies are empowered by law to monitor communications?
-Under which law(s) do they operate? What are the limitations to the communications they
-can monitor?
-Or do they operate outside the law?
-ii. Law enforcement
-What law enforcement agencies are empowered by the law to monitor communications?
-For example, does this include the police, serious crime agenices, local/state police, tax
+### i. Intelligence/security agencies
+> What intelligence/security agencies are empowered by law to monitor communications? Under which law(s) do they operate? What are the limitations to the communications they
+can monitor?  
+> Or do they operate outside the law?
+### ii. Law enforcement
+>What law enforcement agencies are empowered by the law to monitor communications?
+>For example, does this include the police, serious crime agenices, local/state police, tax
 inspectors, local councils, anti-corruption agencies? Under which law(s) do they operate?
 What are the limitations to the communications they can monitor?
 Surveillance capabilities
