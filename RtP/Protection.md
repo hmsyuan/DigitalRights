@@ -39,8 +39,9 @@
 ### Taiwan
 #### 法規
 - [個人資料保護法](http://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=I0050021)
+-- [其他相關法規](http://www.netadmin.com.tw/article_content.aspx?sn=1705050009) 
 - [通訊保障及監察法](http://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=K0060044)
-- [電子簽章法](http://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=J0080037)  
+- [電子簽章法](http://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=J0080037) 
 
 有關台灣的個資保護的相關討論可[見此](https://github.com/hmsyuan/DigitalRights/blob/master/RtP/Country/Taiwan/overview.md)。
 
