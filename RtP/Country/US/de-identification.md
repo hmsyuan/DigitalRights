@@ -27,8 +27,6 @@
         - 專家可以設計編碼嗎？
     - 分享去識別資料需要再與被分享人簽訂個資使用同意書嗎
     - 何謂實際知識（Actual Knowledge）
-    
-    
-  ## 案例
-  
-  #### [Latanya Sweeney案](https://techscience.org/a/2015092903/)
+      
+## 案例
+#### [Latanya Sweeney案](https://techscience.org/a/2015092903/)
