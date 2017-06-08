@@ -1,4 +1,5 @@
 # 美國去識別化相關討論
+## 法規
 ### HIPPA（以下資料可參考[這裡](https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html#standard)）
 - 判准：164.514(a) of the HIPAA Privacy Rule，認為個人無從再被辨識，或是covered entity沒理由相信該筆資料會被識別，則該資料即不再是個人可識別的資料。
 - 方式：共兩種：（1）專家判定，或（2）安全港模式  
