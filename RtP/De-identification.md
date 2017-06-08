@@ -12,3 +12,4 @@
     - Public Policy Considerations for Recent Re-Identification Demonstration Attacks on Genomic Data Sets: 
         - [Part 1](http://blogs.harvard.edu/billofhealth/2013/05/29/public-policy-considerations-for-recent-re-identification-demonstration-attacks-on-genomic-data-sets-part-1-re-identification-symposium/)
         - [Part 2](http://blogs.harvard.edu/billofhealth/2013/10/01/press-and-reporting-considerations-for-recent-re-identification-demonstration-attacks-part-2-re-identification-symposium/)
+        - [Part 3](http://blogs.harvard.edu/billofhealth/category/re-identification-symposium/)
