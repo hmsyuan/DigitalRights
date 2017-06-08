@@ -12,7 +12,6 @@
 
 #### Taiwan
 - [吳全峰：個⼈資料保護之界線：從去識別化談起](http://irb.sinica.edu.tw/doc/education/20161220handout_1.pdf)
-- [電子驗證中心](https://www.etc.org.tw/%E9%A9%97%E8%AD%89%E6%9C%8D%E5%8B%99/%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99%E5%8E%BB%E8%AD%98%E5%88%A5%E5%8C%96%E9%81%8E%E7%A8%8B%E9%A9%97%E8%AD%89.aspx)
 
     關於台灣的細部整理請[見此](https://github.com/hmsyuan/DigitalRights/blob/master/RtP/Country/Taiwan/de-identification.md)
 
