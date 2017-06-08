@@ -29,4 +29,5 @@
     - 何謂實際知識（Actual Knowledge）
     
     
-      
+  ## 案例
+  #### [Latanya Sweeney案](https://techscience.org/a/2015092903/)
