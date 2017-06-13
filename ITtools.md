@@ -1,5 +1,6 @@
 ## 綜合性服務
 - Microsoft Azure for non-profit: https://www.microsoft.com/en-us/philanthropies/product-donations/products/azure?lc=1033
+- Google for Developer: https://developers.google.com/
 
 ## Coding & Sharing
 #### Git tool
