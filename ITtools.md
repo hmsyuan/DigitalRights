@@ -29,7 +29,6 @@
 ## 資料處理＆視覺化
 #### 視覺化 & MindMap
 - Tableau Public: https://public.tableau.com/s/
-- GoConqr: https://www.goconqr.com/en-US
 
 ## 文字紀錄
 #### 逐字稿
@@ -46,4 +45,6 @@
 - Trello: https://trello.com/
 #### 廣告
 - Google Adwords for Non-profit: https://adwords.google.com/intl/zh-TW_tw/home/
-
+#### Mind Map
+- GoConqr: https://www.goconqr.com/en-US
+- CoggleIt: https://coggle.it/
