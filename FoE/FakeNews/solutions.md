@@ -5,4 +5,5 @@
     - 令人質疑的公正性：越來越多的FCM，但多數FCM並未真正去證明其是公正的，要如何取信使用者？好比Facebook最近採用的機制，其所判讀出來的假消息，反而讓[使用者覺得臉書或這個機制正在試圖打壓某些網站](https://www.theguardian.com/technology/2017/may/16/facebook-fake-news-tools-not-working)，而進行更多分享。
 
 - 衍伸問題
-    - **問題1:**：社群媒體的演算法如何處理這些被標示為有問題的消息？
+    - **問題1**：社群媒體可能[會挑選特定立場的新聞](http://gizmodo.com/former-facebook-workers-we-routinely-suppressed-conser-1775461006)，他們的演算法又是如何處理這些被標示為有問題的消息？
+    - **問題2**：
