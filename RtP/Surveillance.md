@@ -101,3 +101,4 @@
 - [The Guardian](https://www.theguardian.com/international) (衛報)
 - [Motherboard](https://motherboard.vice.com/en_us) (樂於對未來提出警語的科技媒體）
 - [Wired](https://www.wired.com/) (有特別強調科技面向)
+- [Pew Research](http://www.pewinternet.org/) （對於整理及研究科技專家的立場有一套）
