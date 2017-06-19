@@ -32,5 +32,8 @@
 #### Password Management
 - 1password: https://1password.com/
 
+#### 通訊（視訊、即時通訊等）
+- meet.jit.si: https://meet.jit.si/
+
 #### 資安流程稽核
 - SAFETAG: https://safetag.org/
