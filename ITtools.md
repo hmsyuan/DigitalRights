@@ -50,3 +50,5 @@
 - GoConqr: https://www.goconqr.com/en-US
 - CoggleIt: https://coggle.it/
 - Mindomo: https://www.mindomo.com/zh/dashboard/home
+#### 網頁搜尋
+- Google Search Console: https://www.google.com/webmasters/tools/home?hl=zh-TW
